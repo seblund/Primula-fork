@@ -1,0 +1,13 @@
+<PrimulaPreferences>
+  <DefaultPath>/home/jaeger/B/Primula-Develop/New/Primula-beta/Primula3/Source</DefaultPath>
+  <UserSamiamLocation>/home/jaeger/samiam/samiam.jar</UserSamiamLocation>
+  <UserInflibLocation>/home/jaeger/samiam/inflib.jar</UserInflibLocation>
+  <aceSettings>
+    <aceQueryBased>false</aceQueryBased>
+    <aceEncodingMethod>CHAVIRA_DARWICHE_06</aceEncodingMethod>
+    <aceDtreeMethod>HYPERGRAPH</aceDtreeMethod>
+    <aceCountPartitions>3</aceCountPartitions>
+    <aceTimeoutCompileMinutes>60</aceTimeoutCompileMinutes>
+    <aceOutputDirectory>/tmp</aceOutputDirectory>
+  </aceSettings>
+</PrimulaPreferences>

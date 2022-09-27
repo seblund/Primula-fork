@@ -1,0 +1,1 @@
+javac -d out -cp ..\..\primula3\JAR\dom4j-2.0.3.jar (Get-ChildItem -Filter *.java -Recurse).FullName

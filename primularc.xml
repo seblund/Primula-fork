@@ -1,0 +1,11 @@
+<PrimulaPreferences>
+  <DefaultPath>C:\Users\sebas\Desktop\WindowsProjects\Primula</DefaultPath>
+  <aceSettings>
+    <aceQueryBased>false</aceQueryBased>
+    <aceEncodingMethod>CHAVIRA_DARWICHE_06</aceEncodingMethod>
+    <aceDtreeMethod>HYPERGRAPH</aceDtreeMethod>
+    <aceCountPartitions>3</aceCountPartitions>
+    <aceTimeoutCompileMinutes>60</aceTimeoutCompileMinutes>
+    <aceOutputDirectory>C:\Users\sebas\AppData\Local\Temp</aceOutputDirectory>
+  </aceSettings>
+</PrimulaPreferences>
